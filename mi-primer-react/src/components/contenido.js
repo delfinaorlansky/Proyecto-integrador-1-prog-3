@@ -1,4 +1,6 @@
 import Dash from './Dash';
+import Lastproduct from './Lastproduct'
+import DataBase from './DataBase'
 
 function contenido () {
 return (
@@ -7,10 +9,12 @@ return (
         App Dashboard
     </div>
         <Dash/>
+        <Lastproduct/>
+        <DataBase/>
 </nav>
 
 );
 }
 
-export default contenido
+export default contenido;
 
