@@ -2,7 +2,7 @@ import Dash from './Dash';
 import Lastproduct from './Lastproduct'
 import DataBase from './DataBase'
 
-function contenido () {
+function Contenido () {
 return (
     <nav>
         <div>
@@ -16,5 +16,5 @@ return (
 );
 }
 
-export default contenido;
+export default Contenido;
 
