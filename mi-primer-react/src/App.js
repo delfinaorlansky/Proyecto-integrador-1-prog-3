@@ -1,10 +1,12 @@
-function App() {
+import Navbar from './components/Navbar';
+function App () {
   return (
     <div className="App">
-     <h1>Te damos la bienvenida a tu billetera virtual</h1>
-     <p>  </p>
+      <header>
+        <Navbar/>
+      </header>
     </div>
-  );
+  )
 }
 
 export default App;
