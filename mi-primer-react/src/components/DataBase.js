@@ -1,18 +1,7 @@
-import Categories from './Categories';
-
-function DataBase (){
-    return (
-        <ul>
-            <Categories/>
-
-
-
-
-        </ul>
-    )
+import Categories from  './Categories';
+function DataBase (params) {
+    
 }
-
-
 
 
 export default DataBase;
