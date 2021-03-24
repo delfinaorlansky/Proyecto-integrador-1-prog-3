@@ -52,12 +52,6 @@ function Categories(params){
         </div>
     </div>
 </div>
-</div>
- </div> 
-</div>
-    ); 
-      }
-
-
-
+</div> 
+    )}
 export default Categories;
