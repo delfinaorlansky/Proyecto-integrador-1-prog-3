@@ -10,15 +10,11 @@ function Columna (){
             <div>
                 Admin
             </div>
-            <Pages/>
-            <Charts/>
-            <Tables/>
+            <Pages titulo="Pages" />
+            <Charts titulo="Charts"/>
+            <Tables titulo="Tables" />
 
         </nav>
     );
 }
-
-
-
-
 export default Columna;

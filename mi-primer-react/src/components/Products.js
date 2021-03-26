@@ -1,5 +1,5 @@
 
-function Products(prpos) {
+function Products(props) {
     return (
         <div className="col-md-4 mb-4">
 			<div className="card border-left-primary shadow h-100 py-2">
@@ -17,8 +17,6 @@ function Products(prpos) {
 							</div>
 						</div>
   );
-    
-
     
 }
 

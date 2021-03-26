@@ -18,21 +18,5 @@ function UsersQuant (props){
 								</div>
 							</div>
 						</div>
-					
-
-    
-    
-    
-    
-    
-    
-    
-    
         )}
-
-
-
-
-
-
 export default UsersQuant;

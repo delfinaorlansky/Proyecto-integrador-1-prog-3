@@ -9,7 +9,7 @@ return (
         App Dashboard
     </div>
         <Dash/>
-        <Lastproduct/>
+        <Lastproduct titulo= 'Last product in Data Dase' parrafo= 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, consequatur explicabo officia inventore libero veritatis iure voluptate reiciendis a magnam, vitae, aperiam voluptatum non corporis quae dolorem culpa exercitationem ratione?' target='View product detail' />
         <DataBase/>
 </nav>
 
